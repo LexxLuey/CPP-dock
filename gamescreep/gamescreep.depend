@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1566557921 source:c:\users\user\documents\c++ stuvs\gamescreep\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+

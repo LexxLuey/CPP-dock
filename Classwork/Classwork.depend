@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1563793276 source:c:\users\user\documents\c++ stuvs\classwork\main.cpp
+	<iostream>
+	<cmath>
+	<string>
+	<cstdlib>
+	<ctime>
+

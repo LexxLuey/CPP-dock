@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567709218 source:c:\users\user\documents\c++ stuvs\tic tac toe\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+

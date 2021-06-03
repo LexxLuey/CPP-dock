@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1565615305 source:c:\users\user\documents\c++ stuvs\gamevectorssss\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cstdlib>
+	<iostream>
+	<string>
+	<vector>
+

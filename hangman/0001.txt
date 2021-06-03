@@ -1,0 +1,8 @@
+
+product name: Playstation
+product id: 0001
+cost price of product: 120000
+selling price of product: 150000
+quantity: 15
+ total cost: 1.8e+006
+sell: 2.25e+006

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1565712126 source:c:\users\user\documents\c++ stuvs\anotherscrap\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<cctype>
+

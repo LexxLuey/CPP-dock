@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565902185 source:c:\users\user\documents\c++ stuvs\practical for translation\main.cpp
+	<iostream>
+	<fstream>
+	<cctype>
+	<iomanip>
+	<stdlib.h>
+

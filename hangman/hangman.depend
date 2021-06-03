@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1565720295 source:c:\users\user\documents\c++ stuvs\hangman\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<algorithm>
+	<ctime>
+	<cctype>
+
+1565726029 source:c:\users\user\documents\c++ stuvs\templates\simpleshopmanagement_c\simpleshopmanagement_c++\shopmanagement\cppproject.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<cstdlib>
+	<cstring>
+	<stdio.h>
+
